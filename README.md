@@ -8,15 +8,31 @@ This analysis is based on NYC Citi Bikes which are a form rideshare transportati
 ## Results and Analysis
 
 
-Below I will attach screenshots of the output and analysis with explanations but my link to my Tableau story is right here...[NYC_BIKE_STORY](https://public.tableau.com/profile/nicholas.singh#!/vizhome/NYC_CITI_BIKES/TripsbyWeekdayforEachHour?publish=yes "NYC BIKE STORY") 
+Below I will attach screenshots of the output and analysis with explanations but my link to my Tableau story with 7 visualizations is --> ...[NYC_BIKE_STORY](https://public.tableau.com/profile/nicholas.singh#!/vizhome/NYC_CITI_BIKES/TripsbyWeekdayforEachHour?publish=yes "NYC BIKE STORY") 
 
+* #### Clearly shows the most active time is around 4-7 hours with a big dip around 1-4 hours and a steady decline from 7- 23 hours.
 
 ![](bikesharing/Analysis/CheckoutTimeForUsers.png)
 
+* #### Clearly shows the most active out of male and females are males during a 6 hour span.
 
+![](bikesharing/Analysis/CheckoutTimesByGender.png)
 
+* #### Clearly shows the most active time is around 4-7 hours with a big dip around 1-4 hours and a steady decline from 7- 23 hours.
+
+![](bikesharing/Analysis/TripsByGender.png)
+
+* #### Clearly shows the most active time is 6AM-9AM and 4PM-7PM with Saturdays being the busiest day.
+
+![](bikesharing/Analysis/TripsByWeekday.png)
+
+* #### Clearly that males and females are active on the same days but also displays that males outnumber the fmeales signficantly.
+
+![](bikesharing/Analysis/UserTripsByGender.pngg)
 
 
 
 
 ## Summary
+
+
